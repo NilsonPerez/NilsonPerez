@@ -1,0 +1,26 @@
+PROYECTO 
+
+APLICACION WEB AGENDA
+
+1- AGREGAR BOTON CREAR LISTA.
+2- AGREGAR BOTON EDITAR TAREA.
+3- AGREGAR BOTON ELIMINAR TAREA.
+-------------------------
+Link: firabe: https://console.firebase.google.com/u/0/?hl=es
+-------------------------
+Link: https://homework-app-42183.web.app/
+-----------------------
+Iconos: https://www.iconfinder.com/
+-----------------------
+Poner a correr la app localmente:
+
+firebase emulators:start
+
+opcion: "+ hosting: ---"
+------------------
+Para subir cambios al hosting de firebase:
+
+firabe deploy
+
+
+
